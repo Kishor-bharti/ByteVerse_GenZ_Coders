@@ -39,7 +39,7 @@ Video Linnk YT:
 Our Project Presentation PDF: http://tiny.cc/5v76vz
 
 
-Here, is the structure of our DataBase
+Here, is the structure of our DataBase (We also have a .sql in the repo)
 
 
 ![image](https://user-images.githubusercontent.com/130580861/232316302-15288063-ec01-4d9f-aca6-b27c9665f5a9.png)
