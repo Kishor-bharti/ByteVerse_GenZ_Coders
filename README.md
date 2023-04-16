@@ -37,6 +37,7 @@ Our Project PDF: http://tiny.cc/5v76vz
 
 
 Here, is the structure of our DataBase
- ![[Pasted image 20230416185921.png]]
 
+
+![image](https://user-images.githubusercontent.com/130580861/232316302-15288063-ec01-4d9f-aca6-b27c9665f5a9.png)
 
