@@ -33,7 +33,7 @@ Here Also, You can see the full demonstration of our project.
 
 Video Link GDrive: https://drive.google.com/file/d/1nc7wSiSCCsehWPI-xqXBv3PcrxhSKXM3/view?usp=share_link
 
-Video Linnk YT: 
+Video Linnk YT: https://youtu.be/u_ZJAfESC7g
 
 
 Our Project Presentation PDF: http://tiny.cc/5v76vz
