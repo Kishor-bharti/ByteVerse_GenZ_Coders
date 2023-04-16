@@ -19,7 +19,7 @@ We have created this project on our local server and for that we have used XAMPP
 - [ ] Enable the Apache Server
 - [ ] Enable the MySQL Server
 
-**Follow these steps to setup the project locally 
+** Follow these steps to setup the project locally 
 * Step 1: Clone the repository or download the zip.
 
 * Step 2: Move the project files to the `htdocs` directory, i.e. present in the locaction of the XAMPP setup files.
